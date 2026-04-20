@@ -35,13 +35,13 @@ For substantive lessons and new chapters:
 
 1. Write the lesson to the repository first
 2. Commit and push successfully to the GitHub repo
-3. Send the repository link and current progress
-4. Wait for the user to read
-5. Then give one short assessment
-6. If the answer is basically correct, continue to the next chapter
-7. If the answer is wrong or incomplete, correct briefly and then continue
+3. Send the repository link, current progress, and one short assessment question in the same reply
+4. The user reads first
+5. If the answer is basically correct, continue to the next chapter
+6. If the answer is wrong or incomplete, correct briefly and then continue
 
 Do not claim content is on GitHub unless it has actually been committed and pushed.
+Do not omit progress or the short assessment question in the publishing reply.
 
 Read `references/study-flow.md` for the exact reply pattern and user-specific preferences.
 
