@@ -30,7 +30,7 @@
 3. [03 - Subagent 与 ACP 的执行模型](./03-subagent-vs-acp-execution-model.md)
 4. [04 - Memory 检索与上下文装配](./04-memory-retrieval-and-context-assembly.md)
 5. [05 - OpenClaw 命令行与运维观察面](./05-cli-and-ops-observability.md)
-6. 06 - 权限、安全、审批与隔离边界
+6. [06 - 权限、安全、审批与隔离边界](./06-permissions-safety-approval-and-isolation.md)
 7. 07 - 后台任务、detached work 与持久化执行
 
 ---
