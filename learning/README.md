@@ -27,3 +27,4 @@ This directory is for browser-friendly study notes that render well in Git viewe
 
 - [AWS 学习大纲](./aws/00-outline.md)
 - [AWS 01 - 全局地图](./aws/01-global-map.md)
+- [AWS 02 - IAM](./aws/02-iam.md)

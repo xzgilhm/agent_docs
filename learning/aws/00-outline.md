@@ -4,9 +4,9 @@
 
 ## 学习进度
 
-当前进度：**1 / 10**
+当前进度：**2 / 10**
 
-当前阶段：**AWS 全局地图**
+当前阶段：**IAM**
 
 计划章节：
 1. AWS 全局地图：Account / Region / AZ / Global services / core layers
